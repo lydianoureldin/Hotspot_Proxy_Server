@@ -1,5 +1,10 @@
 # Hotspot_Proxy_Server
 
+Lydia Noureldin December 12 2017
+
+Please refer to the "Techinical Document" for details on the algorithm and a discussion.
+
+Instructions for running:
 1. Ensure Python 3.6.0 is installed on your computer.
 2. Make sure the “Django” package is installed. Pycharm ⇒ Preferences ⇒ Project ⇒ Project Interpreter ⇒ + ⇒ type in “django” ⇒ install package
 3. Make sure you are connected to the internet 
